@@ -126,4 +126,4 @@ public class SymbolTasksTest {
                 .map(SymbolPojo::getSymbol)
                 .forEach(System.out::println);
     }
-}
+}//
